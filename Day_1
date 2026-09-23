@@ -1,0 +1,54 @@
+Day 01 - Setting Up Python Virtual Environment (venv) Objective
+
+Today, I learned how to create a Python Virtual Environment (venv) to manage project dependencies separately from the system Python installation.
+
+What is a Virtual Environment?
+A virtual environment is an isolated Python environment that allows a project to have its own packages and dependencies without affecting other Python projects on the same machine.
+
+Why do we need a Virtual Environment?
+
+* Avoid package version conflicts between projects.
+* Keep project dependencies isolated.
+* Make projects easier to share and reproduce.
+* Maintain a clean system-wide Python installation.
+* Follow industry best practices for Python development.
+
+Command Used
+Create a Virtual Environment
+--------------------
+python -m venv venv
+--------------------
+
+Activate the Virtual Environment (Windows)
+---------------------------
+.\venv\Scripts\Activate.ps1
+--------------------------
+
+Deactivate the Virtual Environment
+------------
+deactivate
+-----------
+
+Folder Structure
+----------------------
+project/
+│
+├── venv/
+├── app.py
+└── requirements.txt
+------------------------
+Key Learnings
+Learned the purpose of virtual environments.
+Created my first Python virtual environment.
+Activated and managed a virtual environment using PowerShell.
+Understood how dependency isolation helps in real-world projects.
+
+Learn package management using pip.
+
+Install commonly used AI libraries:
+----------------------------------
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+-------------------------------------
