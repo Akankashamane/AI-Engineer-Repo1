@@ -1,0 +1,106 @@
+Day 02 - Python Basics 
+Today, I learned the fundamentals of Python programming, including syntax, semantics, variables, data types, and basic operators.
+
+Topics Covered
+1. Syntax and Semantics
+Syntax refers to the rules for writing Python code correctly.
+Semantics refers to the meaning and behavior of the code.
+
+Example:
+
+-------------------------
+print("Hello, World!")
+-------------------------
+2. Variables and Data Types
+
+Variables are used to store data values.
+
+Example:
+------------------------
+Python
+name = "Jalindar"
+age = 25
+salary = 50000.50
+is_employee = True
+--------------------------
+
+Common Data Types
+
+----------------------------
+int → Integer
+float → Decimal numbers
+str → Text/String
+bool → True or False
+-----------------------------
+Example:
+----------------------------
+Python
+a = 10
+b = 10.5
+c = "Python"
+d = True
+---------------------------
+
+3. Basic Operators
+
+Arithmetic Operators
+
+----------
+
+Python
+a = 10
+b = 5
+ 
+print(a + b)
+print(a - b)
+print(a * b)
+print(a / b)
+------------------
+
+Comparison Operators
+---------------------
+
+Python
+print(a > b)
+print(a < b)
+print(a == b)
+print(a != b)
+----------------------
+Logical Operators
+---------------------
+
+x = True
+y = False
+print(x and y)
+print(x or y)
+print(not x)
+-----------------------
+
+Practice Programs
+
+Check Positive, Negative, or Zero
+
+a = 10 
+if a > 0:
+print("a is positive")
+elif a < 0:
+print("a is negative")
+else:
+print("a is zero")
+----------------------------
+
+Get Input from User
+--------------------------------------
+user_input = input("Enter something: ")
+print("You entered:", user_input)
+-----------------------------------------
+Key Learnings
+Learned Python syntax and code structure.
+Understood different data types.
+Performed arithmetic and logical operations.
+Used conditional statements (if, elif, else).
+Took input from the user and displayed the output.
+
+✅ AI Engineer Journey - Day 02 Completed 🚀
+
+"Strong AI skills start with strong Python fundamentals."
