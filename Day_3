@@ -1,0 +1,34 @@
+Day 3: Learning Python Lists 🐍
+
+Today, I learned about Lists in Python, one of the most commonly used data structures for storing multiple items in a single variable.
+
+Topics Covered
+
+* Creating lists
+* Accessing list elements using indexing
+* Positive and negative indexing
+* Finding the first, middle, and last elements
+* Modifying list elements
+* Basic list operations
+
+Key Concepts
+
+Lists are ordered, mutable, and can store different data types.
+Indexing starts from 0.
+Negative indexing allows access from the end of the list.
+
+Python
+------------------------------------------------------
+my_list = [10, 20, 30, 40, 50]
+ 
+print("First element:", my_list[0])
+print("Middle element:", my_list[len(my_list) // 2])
+print("Last element:", my_list[-1])
+------------------------------------------------------
+
+What I Learned
+
+✅ How to create and use lists
+ ✅ How indexing works in Python
+ ✅ How to access specific elements efficiently
+ ✅ Why lists are useful for storing and managing collections of data
